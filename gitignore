@@ -1,0 +1,13 @@
+# Arquivo para ignorar arquivos específicos no Git
+
+# Ignorar o arquivo de ambiente que contém senhas e segredos
+.env
+
+# Arquivos de sistema operacional comuns
+.DS_Store
+Thumbs.db
+
+# Diretórios de dependências (se aplicável no futuro)
+# node_modules/
+# venv/
+
